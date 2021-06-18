@@ -1,7 +1,7 @@
 # ELK
 Debian VM with Docker+Elasticsearch+Kibana
 
-Download arhive: https://drive.google.com/drive/folders/1vjIQD-GnHTyqiaCReaFutiz2QSF0dOyy?usp=sharing
+Download arhive: https://drive.google.com/file/d/1HJmBy3mDJoBT-MszmbRmQpPSs4OnYAi_/view?usp=sharing
 
 This arhive includes 3 files for VMware, using this files u can run virtual machine with debian os.
 Virtual machine already set up and ready for use.
