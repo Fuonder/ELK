@@ -1,12 +1,18 @@
 # ELK
 Debian VM with Docker+Elasticsearch+Kibana
 
-This repository includes 3 files for VMware, using this files u can run virtual machine with debian os.
+Download arhive: https://drive.google.com/drive/folders/1vjIQD-GnHTyqiaCReaFutiz2QSF0dOyy?usp=sharing
+
+This arhive includes 3 files for VMware, using this files u can run virtual machine with debian os.
 Virtual machine already set up and ready for use.
 
 To use the virtual machine you need user data:
-root-user-login: User
-root-user-pass: 019
+
+root-user-login:
+>User
+
+root-user-pass: 
+>019
 
 Virtual machine has docker with elasticsearch and kibana, which located at /docker-elk
 
