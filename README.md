@@ -30,11 +30,8 @@ First of all, for further work with elastic and kibana u will need ip adress, pr
 Type in console : 
 >ip a
 
-Find in listed data field with 
-><BROADCAST, MULTICAST, UP, LOWER_UP>
-
-Usualy ip will start from: 
->192.168.0.0
+Find in listed data field with ip starting from: 
+>192.0.0.0
 
 ## Step 2. Run Docker
 First of all, to run docker, you need to go to the directory in which it is contained.
