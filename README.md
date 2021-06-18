@@ -25,7 +25,7 @@ You can see plugin at GitHub : [jmorphy2](https://github.com/anti-social/jmorphy
 To run docker u need to do 2 steps:
 
 ## Step 1. Getting ip.
-First of all, for further work with elastic and kibana u will need ip adress, processing wia which u will get access.
+First of all, for further work with elastic and kibana u will need ip adress, processing via which u will get access.
 
 Type in console : 
 >ip a
